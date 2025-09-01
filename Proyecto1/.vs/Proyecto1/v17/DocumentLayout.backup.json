@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\Proyecto1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A492A620-B117-43CD-919B-487A766F17E3}|Proyecto1.csproj|c:\\xampp\\htdocs\\proyecto1\\controllers\\ejercicio2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A492A620-B117-43CD-919B-487A766F17E3}|Proyecto1.csproj|solutionrelative:controllers\\ejercicio2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A492A620-B117-43CD-919B-487A766F17E3}|Proyecto1.csproj|c:\\xampp\\htdocs\\proyecto1\\controllers\\ejercicio1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A492A620-B117-43CD-919B-487A766F17E3}|Proyecto1.csproj|solutionrelative:controllers\\ejercicio1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A492A620-B117-43CD-919B-487A766F17E3}|Proyecto1.csproj|c:\\xampp\\htdocs\\proyecto1\\views\\ejercicio1\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A492A620-B117-43CD-919B-487A766F17E3}|Proyecto1.csproj|solutionrelative:views\\ejercicio1\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A492A620-B117-43CD-919B-487A766F17E3}|Proyecto1.csproj|c:\\xampp\\htdocs\\proyecto1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A492A620-B117-43CD-919B-487A766F17E3}|Proyecto1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejercicio2Controller.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Proyecto1\\Controllers\\Ejercicio2Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\Ejercicio2Controller.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Proyecto1\\Controllers\\Ejercicio2Controller.cs",
+              "RelativeToolTip": "Controllers\\Ejercicio2Controller.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwBYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T05:52:57.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Perfil.cshtml",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Proyecto1\\Views\\Ejercicio1\\Perfil.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ejercicio1\\Perfil.cshtml",
+              "ToolTip": "C:\\xampp\\htdocs\\Proyecto1\\Views\\Ejercicio1\\Perfil.cshtml",
+              "RelativeToolTip": "Views\\Ejercicio1\\Perfil.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T05:35:34.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ejercicio1Controller.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Proyecto1\\Controllers\\Ejercicio1Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\Ejercicio1Controller.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Proyecto1\\Controllers\\Ejercicio1Controller.cs",
+              "RelativeToolTip": "Controllers\\Ejercicio1Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T01:38:06.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Proyecto1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Proyecto1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T00:50:34.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

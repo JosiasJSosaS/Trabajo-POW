@@ -1,0 +1,26 @@
+﻿@model List<Proyecto2.Models.MovieModel>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="">
+
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 g-3">
+    @foreach (var item in Model)
+    {
+        <a href=@("/Home/Details/" + item.id) style="text-decoration:none">
+            <div class="col">
+                <div class="card" style="width: 18rem;">
+                    <img src=@("https://image.tmdb.org/t/p/w1280" + item.poster_path) class="card-img-top" alt=@item.title>
+                    <div class="card-body">
+                        <h5 class="card-title text-center">@item.title</h5>
+                    </div>
+                </div>
+            </div>
+        </a>
+    }
+    </div>
+
+    
+</div>

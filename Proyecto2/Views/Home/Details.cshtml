@@ -1,0 +1,35 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model Proyecto2.Models.MovieModel
+@{
+    <div class="container">
+        <div class="row">
+            <div class="foto align-content-center col">
+                <img src=@("https://image.tmdb.org/t/p/w1280" + Model.poster_path) class="rounded img-fluid" style="width: 400px; height: auto"/>
+            </div>
+            <div class="col container">
+                <div class="nombre align-content-center row">
+                    <span class="fw-bold display-3">@Model.title</span>
+                </div>
+                <br />
+                <div class="titulo align-content-center row">
+                    <span class="fw-semibold fs-5"><span class="fw-bold">Titulo original: </span>@Model.original_title</span>
+                </div>
+                <br />
+                <div class="generos align-content-center row">
+                    <span class="fw-semibold fs-5"><span class="fw-bold">Idioma original: </span>@Model.original_language</span>
+                </div>
+                <br />
+                <div class="release-date align-content-center row">
+                    <span class="fw-semibold fs-5"><span class="fw-bold">Fecha de lanzamiento: </span>@Model.release_date</span>
+                </div>
+                <br />
+                <div class="generos align-content-center row">
+                    <span class="fw-semibold fs-5"><span class="fw-bold">Descripcion: </span>@Model.overview</span>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
